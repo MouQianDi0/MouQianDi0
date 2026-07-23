@@ -41,7 +41,7 @@
 ## 联系我
 
 - GitHub：[@MouQianDi0](https://github.com/MouQianDi0)
-- Gmail: [@MouQianDi0](mouqiandi2006@gmail.com)
+- Gmail: mouqiandi2006@gmail.com
 
 <div align="center">
   <sub>保持好奇，持续创造。</sub>
