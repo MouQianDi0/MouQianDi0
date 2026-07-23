@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/190814306?v=4" width="112" alt="Timi 的 GitHub 头像" />
-  <h1>你好，我是 Timi 👋</h1>
+  <h1>你好，我是 Timmmi 👋</h1>
   <p>一名喜欢探索现代 Web、AI 应用与实用工具的开发者。</p>
   <p>
     <a href="https://github.com/MouQianDi0">
@@ -14,7 +14,6 @@
 - 👨‍💻 持续学习，并尝试把想法变成真正可用的项目
 - 🔭 关注现代前端、Node.js 与 AI 应用开发
 - 🧩 喜欢清晰、实用且易于维护的产品与代码
-- 📍 来自中国福建省福州市
 - 💬 欢迎通过 GitHub 与我交流
 
 ## 技术与工具
@@ -31,7 +30,7 @@
 
 ## GitHub 贡献趋势
 
-[![Timi 的 GitHub 贡献趋势折线图](https://github-readme-activity-graph.vercel.app/graph?username=MouQianDi0&theme=github-compact&days=31&area=true&hide_border=true&radius=8&custom_title=Timi%20%E7%9A%84%20GitHub%20%E8%B4%A1%E7%8C%AE%E8%B6%8B%E5%8A%BF)](https://github.com/MouQianDi0)
+[![Timi 的 GitHub 贡献趋势折线图](https://github-readme-activity-graph.vercel.app/graph?username=MouQianDi0&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 目前关注
 
@@ -42,6 +41,7 @@
 ## 联系我
 
 - GitHub：[@MouQianDi0](https://github.com/MouQianDi0)
+- Gmail: [@MouQianDi0](mouqiandi2006@gmail.com)
 
 <div align="center">
   <sub>保持好奇，持续创造。</sub>
