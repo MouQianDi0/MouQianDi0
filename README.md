@@ -30,7 +30,7 @@
 
 ## GitHub 贡献趋势
 
-[![Timi 的 GitHub 贡献趋势折线图](https://github-readme-activity-graph.vercel.app/graph?username=MouQianDi0&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Timmmi 的 GitHub 贡献趋势折线图](https://github-readme-activity-graph.vercel.app/graph?username=MouQianDi0&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 目前关注
 
@@ -42,6 +42,7 @@
 
 - GitHub：[@MouQianDi0](https://github.com/MouQianDi0)
 - Gmail: mouqiandi2006@gmail.com
+- QQmail: 2157346023@qq.com
 
 <div align="center">
   <sub>保持好奇，持续创造。</sub>
